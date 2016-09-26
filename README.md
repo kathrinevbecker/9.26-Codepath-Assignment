@@ -35,8 +35,10 @@ Time spent: `<16>`
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. How do I easily resize a tall asset for scrollview? This step takes me forever.
+2. How do other ppl organize their storyboard? Are there best practices to visualize the flow on that screen?
+3. Is it possible to rename and reorder the view controllers on the mid-left panel? Also what is that panel called?
+
 
 ### Video Walkthrough 
 
@@ -49,5 +51,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Putting a button/segue on the bottom of the Settings page(s) was the most difficult part. I'll try adding more optional features tomorrow. 
 
 * Any libraries or borrowed content.
