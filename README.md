@@ -55,4 +55,4 @@ Describe any challenges encountered while building the app.
 
 Putting a button/segue on the bottom of the Settings page(s) was the most difficult part. I'll try adding more optional features tomorrow. 
 
-* Any libraries or borrowed content.
+* Any libraries or borrowed content. (none)
